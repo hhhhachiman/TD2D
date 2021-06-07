@@ -1,0 +1,16 @@
+15
+building building.mp3
+arrow_fire1 arrow_fire1.mp3
+arrow_fire2 arrow_fire2.mp3
+victory victory.mp3
+magic_fire1 magic_fire1.mp3
+gameover gameover.wav
+explo_firestart1 explo_firestart1.mp3
+sell_tower sell_tower.mp3 
+monster_die1 monster_die1.mp3
+arrow_ready2 arrow_ready2.mp3
+explo_ready1 explo_ready1.mp3
+magic_ready3 magic_ready3.mp3
+shield_ready1 shield_ready1.mp3
+arrow_ready1 arrow_ready1.mp3
+shield_fire2 shield_fire2.mp3

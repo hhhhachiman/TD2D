@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - ActionIcon
+  - Tower
+  - AttackRadius
+  - Bullet
+  - Defender
+  - CapturePoint
+  - LevelUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tower
+  - Enemy
+  - BulletAlly
+  - 
+  - Defender
+  - CapturePoint
+  - AttackEnemy
+  - AttackAlly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2734218875
+    locked: 0
+  - name: Floor
+    uniqueID: 2687985197
+    locked: 0
+  - name: Range
+    uniqueID: 3811905755
+    locked: 0
+  - name: Shadow
+    uniqueID: 2115159551
+    locked: 0
+  - name: Dust
+    uniqueID: 195171007
+    locked: 0
+  - name: UnitsAndTowers
+    uniqueID: 769703497
+    locked: 0
+  - name: Bullets
+    uniqueID: 4164478029
+    locked: 0
+  - name: Explosions
+    uniqueID: 4198164439
+    locked: 0
+  - name: HealthBars
+    uniqueID: 3468886325
+    locked: 0

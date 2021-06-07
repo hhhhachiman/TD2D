@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5968743952534914424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1376452627833268843}
+  - component: {fileID: 681451515}
+  m_Layer: 0
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: 0d2988e16a12d5d4ca097b36b28e3572, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1376452627833268843
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5968743952534914424}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &681451515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5968743952534914424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b6a11cfb8c4a9649beec2d7a8a09e22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedRandomizer: 0.2
+  unitSpawnDelay: 0.8
+  waves:
+  - delayBeforeWave: 0
+    enemies:
+    - {fileID: 5136160895713325610, guid: e69bb95a708d3a248b0c046e7b3c1e0c, type: 3}
+    - {fileID: 5136160895713325610, guid: e69bb95a708d3a248b0c046e7b3c1e0c, type: 3}
+  - delayBeforeWave: 0
+    enemies:
+    - {fileID: 5136160895713325610, guid: e69bb95a708d3a248b0c046e7b3c1e0c, type: 3}
+    - {fileID: 5136160895713325610, guid: e69bb95a708d3a248b0c046e7b3c1e0c, type: 3}
+    - {fileID: 2006887355224889368, guid: e0a6adc426434594f92a9585b0af3941, type: 3}
+  - delayBeforeWave: 0
+    enemies:
+    - {fileID: 937704625841837060, guid: 59716ae8c95a05f449909eb90da55214, type: 3}
+    - {fileID: 937704625841837060, guid: 59716ae8c95a05f449909eb90da55214, type: 3}
+    - {fileID: 2006887355224889368, guid: e0a6adc426434594f92a9585b0af3941, type: 3}
+    - {fileID: 4175492622410177283, guid: f9c04f09bf7b9e04bac7e9110a08d3e7, type: 3}
+  - delayBeforeWave: 0
+    enemies:
+    - {fileID: 5136160895713325610, guid: e69bb95a708d3a248b0c046e7b3c1e0c, type: 3}
+    - {fileID: 2006887355224889368, guid: e0a6adc426434594f92a9585b0af3941, type: 3}
+    - {fileID: 4175492622410177283, guid: f9c04f09bf7b9e04bac7e9110a08d3e7, type: 3}
+  - delayBeforeWave: 0
+    enemies:
+    - {fileID: 5136160895713325610, guid: e69bb95a708d3a248b0c046e7b3c1e0c, type: 3}
+    - {fileID: 937704625841837060, guid: 59716ae8c95a05f449909eb90da55214, type: 3}
+    - {fileID: 937704625841837060, guid: 59716ae8c95a05f449909eb90da55214, type: 3}
+    - {fileID: 4175492622410177283, guid: f9c04f09bf7b9e04bac7e9110a08d3e7, type: 3}
+  randomEnemiesList: []

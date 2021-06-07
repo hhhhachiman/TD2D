@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 4d605ff03f674cb4795f52b00963e213
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Banners_0
+  - first:
+      213: 21300002
+    second: Banners_1
+  - first:
+      213: 21300004
+    second: Banners_2
+  - first:
+      213: 21300006
+    second: Banners_3
+  - first:
+      213: 8092928862833061227
+    second: Banners_0
+  - first:
+      213: 7364148634152971916
+    second: Banners_1
+  - first:
+      213: -8087459187390898428
+    second: Banners_2
+  - first:
+      213: 8332114730605964931
+    second: Banners_3
+  - first:
+      213: 4751074602148031020
+    second: Banners_4
+  - first:
+      213: -1456461094317584815
+    second: Banners_5
+  - first:
+      213: 2700997842367617946
+    second: Banners_6
+  - first:
+      213: 3784482145882034392
+    second: Banners_7
+  - first:
+      213: 9184142453170988758
+    second: Banners_8
+  - first:
+      213: 285927018186209008
+    second: Banners_9
+  - first:
+      213: -7403177622115744608
+    second: Banners_10
+  - first:
+      213: -3803476531062835090
+    second: Banners_11
+  - first:
+      213: 654056713772503820
+    second: Banners_12
+  - first:
+      213: -727736509239437148
+    second: Banners_13
+  - first:
+      213: -8411668512184729112
+    second: Banners_14
+  - first:
+      213: -5336135690803592307
+    second: Banners_15
+  - first:
+      213: -198493576004966802
+    second: Banners_16
+  - first:
+      213: 1404368656519368688
+    second: Banners_17
+  - first:
+      213: 3445892993799236519
+    second: Banners_18
+  - first:
+      213: -440034153982544548
+    second: Banners_19
+  - first:
+      213: -1399360325048996140
+    second: Banners_20
+  - first:
+      213: 8762762062128522982
+    second: Banners_21
+  - first:
+      213: -8282904215235283657
+    second: Banners_22
+  - first:
+      213: 5702437728713844328
+    second: Banners_23
+  - first:
+      213: -8188738245452074907
+    second: Banners_24
+  - first:
+      213: -7251887747522630730
+    second: Banners_25
+  - first:
+      213: 4940333235681010879
+    second: Banners_26
+  - first:
+      213: -7738149780432143967
+    second: Banners_27
+  - first:
+      213: 1799141570577508392
+    second: Banners_28
+  - first:
+      213: -9175753287214178484
+    second: Banners_29
+  - first:
+      213: -82549944007640620
+    second: Banners_30
+  - first:
+      213: 2439402277469567528
+    second: Banners_31
+  - first:
+      213: 630710023576909358
+    second: Banners_32
+  - first:
+      213: 1670386425098680164
+    second: Banners_33
+  - first:
+      213: 3424390503543923689
+    second: Banners_34
+  - first:
+      213: 1678592158231084046
+    second: Banners_35
+  - first:
+      213: 5312488354102925492
+    second: Banners_36
+  - first:
+      213: -7377974366587688189
+    second: Banners_37
+  - first:
+      213: -1775312603218008994
+    second: Banners_38
+  - first:
+      213: -1101054387176029184
+    second: Banners_39
+  - first:
+      213: 3285224122036805593
+    second: Banners_40
+  - first:
+      213: 1958310264142222071
+    second: Banners_41
+  - first:
+      213: -1499991696129934850
+    second: Banners_42
+  - first:
+      213: 9203343453009608731
+    second: Banners_43
+  - first:
+      213: 6117874775831273271
+    second: Banners_44
+  - first:
+      213: 447083977563808285
+    second: Banners_45
+  - first:
+      213: 6085272848652534039
+    second: Banners_46
+  - first:
+      213: -8637493834787352987
+    second: Banners_47
+  - first:
+      213: 6592315657012960220
+    second: Banners_48
+  - first:
+      213: -9199624797181757737
+    second: Banners_49
+  - first:
+      213: 5017238560006230478
+    second: Banners_50
+  - first:
+      213: -961833151258408395
+    second: Banners_51
+  - first:
+      213: 5063038760024797466
+    second: Banners_52
+  - first:
+      213: 8326508155904395031
+    second: Banners_53
+  - first:
+      213: -513111817914874057
+    second: Banners_54
+  - first:
+      213: 1564820245531674842
+    second: Banners_55
+  - first:
+      213: 3638000713422339042
+    second: Banners_56
+  - first:
+      213: -6531561611992986876
+    second: Banners_57
+  - first:
+      213: -1075367487678240229
+    second: Banners_58
+  - first:
+      213: -5976524623666025438
+    second: Banners_59
+  - first:
+      213: 7184553676958147202
+    second: Banners_60
+  - first:
+      213: -2111072581703310410
+    second: Banners_61
+  - first:
+      213: 1600862839245855309
+    second: Banners_62
+  - first:
+      213: -5547281322464278556
+    second: Banners_63
+  - first:
+      213: 3432935205718569675
+    second: Banners_64
+  - first:
+      213: -2585003730353016289
+    second: Banners_65
+  - first:
+      213: 3043859017749196794
+    second: Banners_66
+  - first:
+      213: -8463861314821393771
+    second: Banners_67
+  - first:
+      213: -7493375152215957697
+    second: Banners_68
+  - first:
+      213: 6015360207114999183
+    second: Banners_69
+  - first:
+      213: 3738643154136662528
+    second: Banners_70
+  - first:
+      213: -8306262999970976534
+    second: Banners_71
+  - first:
+      213: 349314593580981270
+    second: Banners_72
+  - first:
+      213: -1138179156839859766
+    second: Banners_73
+  - first:
+      213: -598879474063893462
+    second: Banners_74
+  - first:
+      213: 1990621420585461984
+    second: Banners_75
+  - first:
+      213: -1845311505032464685
+    second: Banners_76
+  - first:
+      213: -3291197455637387562
+    second: Banners_77
+  - first:
+      213: 4329204326622567056
+    second: Banners_78
+  - first:
+      213: -3818563367418951958
+    second: Banners_79
+  - first:
+      213: 7203581183708081813
+    second: Banners_80
+  - first:
+      213: -6371696727956740490
+    second: Banners_81
+  - first:
+      213: 3290697122702849587
+    second: Banners_82
+  - first:
+      213: 2527508828690009963
+    second: Banners_83
+  - first:
+      213: -670169941243620986
+    second: Banners_84
+  - first:
+      213: -694414133604574054
+    second: Banners_85
+  - first:
+      213: 4561249142500550815
+    second: Banners_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Banners_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 741
+        width: 693
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05b1ce57e258430800000000000000
+      internalID: 3784482145882034392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 920
+        width: 691
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff87893ad15d7310800000000000000
+      internalID: 1404368656519368688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_32
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 770
+        width: 683
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26749fbc6bb0c800800000000000000
+      internalID: 630710023576909358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 570
+        width: 601
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28221d8f089a4b360800000000000000
+      internalID: 7184553676958147202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_63
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 613
+        width: 598
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78b5927091403b0800000000000000
+      internalID: -5547281322464278556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_79
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 229
+        width: 846
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae68ca459dcb10bc0800000000000000
+      internalID: -3818563367418951958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_80
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 379
+        width: 257
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eab9d9be248f360800000000000000
+      internalID: 7203581183708081813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_84
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 25
+        width: 257
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68197093df313b6f0800000000000000
+      internalID: -670169941243620986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_85
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 25
+        width: 257
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1d7f4602fc56f0800000000000000
+      internalID: -694414133604574054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banners_86
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 25
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ecc6bdefcc4f30800000000000000
+      internalID: 4561249142500550815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 861ec5df1bc013542b8d0a4cbf8d5819
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
